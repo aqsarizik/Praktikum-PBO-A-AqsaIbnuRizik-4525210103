@@ -26,7 +26,7 @@ Studi kasus yang digunakan adalah kendaraan seperti mobil dan sepeda.
 Berikut adalah hasil output program Java setelah program berhasil
 dikompilasi dan dijalankan.
 
-![Hasil Output Java](gambar/output-java.png)
+![Hasil Output Java](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per06/gambar/java.png)
 
 ---
 
