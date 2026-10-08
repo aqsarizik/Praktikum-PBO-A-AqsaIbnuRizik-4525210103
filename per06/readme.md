@@ -35,7 +35,7 @@ dikompilasi dan dijalankan.
 Berikut adalah hasil output program PHP setelah program berhasil
 dijalankan.
 
-![Hasil Output PHP](gambar/output-php.png)
+![Hasil Output PHP](http://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per06/gambar/php.png)
 
 
 ---
