@@ -61,7 +61,7 @@ Main adalah program uji untuk membuktikan bahwa kelas Mahasiswa bekerja benar. P
 main java tidak ada yang di ubah
 
 ## Output
-![Java sesudah](gambar/output-java.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/java_output.png)
 
 ---
 
@@ -88,11 +88,11 @@ Penjelasan Kode:
 9. Method __toString(): Menampilkan rekap data mahasiswa menggunakan sprintf().
 Kelas ini adalah padanan versi PHP dari Mahasiswa.java, dengan fitur khas PHP modern:
 
-![Hasil Output PHP sebelum](gambar/output-php.png)
-![Hasil Output PHP sesudah](gambar/output-php.png)
+![Hasil Output PHP sebelum](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/PHP_Sebelum.png)
+![Hasil Output PHP sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/PHP_sesudah.png)
 
 ## Output
-![php output](gambar/output-java.png)
+![php output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/PHP_output.png)
 
 
 ## 2.2. File: main.php
@@ -105,10 +105,10 @@ main.php adalah program uji versi PHP dan memiliki alur yang sama dengan Main.ja
 2. Tiga objek mahasiswa valid dibuat dalam array $kelas, lalu dicetak dengan foreach (PHP otomatis memanggil __toString()).
 3. Dua percobaan membuat objek tidak sah (nilai tugas 150 dan NIM kosong) dibungkus try–catch yang menangkap InvalidArgumentException, lalu mencetak pesan penolakan.
 
-![Hasil Output main PHP ](gambar/output-php.png)
+![Hasil Output main PHP ](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/PHPMain_sesudah.png)
 
 ## Output
-![PHP output](gambar/output-java.png)
+![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/PHP_output.png)
 
 ---
 
