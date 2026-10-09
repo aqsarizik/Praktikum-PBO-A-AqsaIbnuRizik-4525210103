@@ -39,7 +39,9 @@ penjelasan code:
 Berikut adalah hasil output program Java setelah program berhasil
 dikompilasi dan dijalankan.
 
+## java sebelum
 ![Java sebelum](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/javaMain_sebelum.png)
+## java sesudah
 ![Java sesudah](gambar/output-java.png)
 
 ## Output
