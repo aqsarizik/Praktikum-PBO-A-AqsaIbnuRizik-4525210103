@@ -42,10 +42,10 @@ dikompilasi dan dijalankan.
 ## java sebelum
 ![Java sebelum](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/javaMain_sebelum.png)
 ## java sesudah
-![Java sesudah](gambar/output-java.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/java_sesudah.png)
 
 ## Output
-![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/java_sesudah.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/java_output.png)
 
 ## 1.2. File: Main.java
 
@@ -56,7 +56,7 @@ Main adalah program uji untuk membuktikan bahwa kelas Mahasiswa bekerja benar. P
 1. Rekap nilai. Membuat tiga objek Mahasiswa yang valid (Ani, Budi, Citra) dalam sebuah array, lalu mencetak masing-masing lewat toString().
 2. Uji penolakan data tidak sah. Mencoba membuat objek dengan nilai tugas 150 dan objek dengan NIM kosong. Keduanya dibungkus try–catch untuk menangkap IllegalArgumentException. Jika objek berhasil dibuat, program mencetak kata "MASALAH", yang berarti validasi gagal. Jika galat tertangkap, program mencetak pesan penolakan.
 
-![Hasil Output Java sesudah](gambar/output-java.png)
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/javaMain_sesudah.png)
 
 main java tidak ada yang di ubah
 
