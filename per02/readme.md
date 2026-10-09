@@ -45,7 +45,7 @@ dikompilasi dan dijalankan.
 ![Java sesudah](gambar/output-java.png)
 
 ## Output
-![Java sesudah](gambar/output-java.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per02/SS/java_sesudah.png)
 
 ## 1.2. File: Main.java
 
