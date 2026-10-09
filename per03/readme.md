@@ -49,12 +49,13 @@ penjelasan code:
 
 Berikut adalah hasil output program Java setelah program berhasil
 dikompilasi dan dijalankan.
-
-![Java sebelum](gambar/output-java.png)
-![Java sesudah](gambar/output-java.png)
+## java sebelum
+![Java sebelum](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_sebelum.png)
+## java sesudah
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_sesudah.png)
 
 ## Output
-![Java sesudah](gambar/output-java.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_output.png)
 
 ## 1.2. File: Main.java
 
@@ -80,13 +81,14 @@ Penjelasan Kode:
 
 7. Menghitung Bunga
    Menghitung bunga tahunan sebesar 2,5% berdasarkan saldo rekening Ani setelah setoran.
-
-![Hasil Output Java sesudah](gambar/output-java.png)
-
+## Main java sebelum
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_main%20sebelum.png)
+## Main java sesudah
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/javaMain_sudah.png)
 main java tidak ada yang di ubah
 
 ## Output
-![Java sesudah](gambar/output-java.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_output.png)
 
 ---
 
@@ -124,11 +126,13 @@ Penjelasan Kode:
 10. Method "__toString()"
     Menampilkan informasi rekening dalam bentuk teks yang rapi, termasuk nomor rekening, nama pemilik, dan saldo
 
-![Hasil Output PHP sebelum](gambar/output-php.png)
-![Hasil Output PHP sesudah](gambar/output-php.png)
-
+## Main php sebelum
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_sebelum.png)
+## Main php sesudah
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_sudah.png)
+main java tidak ada yang di ubah
 ## Output
-![php output](gambar/output-java.png)
+![php output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_output.png)
 
 
 ## 2.2. File: main.php
@@ -153,10 +157,13 @@ Penjelasan Kode:
 6. Menghitung Bunga
    Menghitung bunga tahunan sebesar 2,5% dari saldo Ani dan menampilkan hasilnya menggunakan "number_format()
 
-![Hasil Output main PHP ](gambar/output-php.png)
-
+## Main php sebelum
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sebelum.png)
+## Main php sesudah
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sudah.png)
+main java tidak ada yang di ubah
 ## Output
-![PHP output](gambar/output-java.png)
+![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_output.png)
 
 ---
 
