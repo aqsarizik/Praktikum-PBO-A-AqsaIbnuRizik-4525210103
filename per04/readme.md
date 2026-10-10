@@ -43,13 +43,11 @@ Method ini digunakan untuk mengambil nilai jumlah SKS dosen.
 
 Berikut adalah hasil output program Java setelah program berhasil
 dikompilasi dan dijalankan.
-## java sebelum
-![Java sebelum](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_sebelum.png)
 ## java sesudah
-![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_sesudah.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/Jdosen_sudah.png)
 
 ## Output
-![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_output.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/java_output.png)
 
 ## 1.2. File: Main.java
 
@@ -70,13 +68,13 @@ Variabel "total" digunakan untuk menjumlahkan gaji seluruh pegawai melalui metho
 Method "periksa()" digunakan untuk membandingkan hasil perhitungan gaji dengan nilai yang diharapkan. Program menampilkan status "OK" jika hasil sesuai atau "SALAH" jika berbeda.
 
 ## Main java sebelum
-![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_main%20sebelum.png)
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/javaMain_blm.png)
 ## Main java sesudah
-![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/javaMain_sudah.png)
-main java tidak ada yang di ubah
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/javaMain_sudah.png)
+
 
 ## Output
-![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_output.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/java_output.png)
 
 
 ## 1.3. File: pegawai.java
@@ -104,14 +102,14 @@ Method abstrak "jenis()" mewajibkan setiap kelas turunan menentukan jenis pegawa
 7. Method "toString()"
 Method ini digunakan untuk menampilkan informasi pegawai dalam format teks yang berisi NIP, jenis pegawai, nama, dan total gaji.
 
-## Main java sebelum
-![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_main%20sebelum.png)
-## Main java sesudah
-![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/javaMain_sudah.png)
-main java tidak ada yang di ubah
+##  java sebelum
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/Jpegwai_blm.png)
+##  java sesudah
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/Jpegawai_sudah.png)
+
 
 ## Output
-![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_output.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/java_output.png)
 
 
 ## 1.4. File: pegawai harian.java
@@ -137,13 +135,13 @@ Method ini digunakan untuk mengambil nilai jumlah hari kerja pegawai.
 
 
 ## Main java sebelum
-![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_main%20sebelum.png)
+ini adalah tambahan codingan 
 ## Main java sesudah
-![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/javaMain_sudah.png)
-main java tidak ada yang di ubah
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/JpegawaiH_sudah.png)
+
 
 ## Output
-![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_output.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/java_output.png)
 
 
 ## 1.5. File: pegawai kontrak.java
@@ -168,13 +166,13 @@ Method ini digunakan untuk mengambil nilai lama kontrak pegawai.
 Class ini tidak melakukan override terhadap "hitungGaji()" karena pegawai kontrak hanya menerima gaji pokok tanpa tambahan tunjangan masa kerja. Oleh karena itu, method "hitungGaji()" diwarisi dari class "Pegawai".
 
 ## Main java sebelum
-![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_main%20sebelum.png)
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/JpegawaiK_blm.png)
 ## Main java sesudah
-![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/javaMain_sudah.png)
-main java tidak ada yang di ubah
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/JpegawaiK_sudah.png)
+
 
 ## Output
-![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_output.png)
+![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/java_output.png)
 
 
 ## 1.6. File: pegawai tetap.java
@@ -202,13 +200,15 @@ Method ini mengembalikan teks ""TETAP"" sebagai identitas jenis pegawai.
 Method ini digunakan untuk mengambil nilai masa kerja pegawai dalam tahun.
 
 ## Main java sebelum
-![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_main%20sebelum.png)
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/JpegawaiT_blm.png)
 ## Main java sesudah
-![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/javaMain_sudah.png)
+![Hasil Output Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/JpegawaiT_sudah.png)
 main java tidak ada yang di ubah
 
 ## Output
-![Java sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/java_output.png)
+![Hasil Output Java ](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20java/java_output.png)
+
+
 ---
 
 ### 2. Implementasi PHP
@@ -222,12 +222,12 @@ Class ini menambahkan atribut tunjangan fungsional untuk dosen. Constructor digu
 Method "hitungGaji()" di-override untuk menjumlahkan gaji pegawai tetap dengan tunjangan fungsional. Method "jenis()" digunakan untuk mengidentifikasi jenis pegawai sebagai "DOSEN".
 
 ## Main php sebelum
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_sebelum.png)
+codingan tambahan
 ## Main php sesudah
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_sudah.png)
-main java tidak ada yang di ubah
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/Pdosen_sudah.png)
+
 ## Output
-![php output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_output.png)
+![php output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/output.png)
 
 
 ## 2.2. File: main.php
@@ -241,12 +241,12 @@ Program menampilkan informasi setiap pegawai dan hasil perhitungan gajinya melal
 
 
 ## Main php sebelum
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sebelum.png)
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/main_blm.png)
 ## Main php sesudah
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sudah.png)
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/Pmain_sudah.png)
 main java tidak ada yang di ubah
 ## Output
-![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_output.png)
+![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/output.png)
 
 
 ## 2.3. File: pegawai.php
@@ -260,12 +260,12 @@ Method "hitungGaji()" digunakan untuk mengembalikan nilai gaji pokok. Method "je
 
 
 ## Main php sebelum
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sebelum.png)
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/pegawai_blm.png)
 ## Main php sesudah
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sudah.png)
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/Ppegawai_sudah.png)
 main java tidak ada yang di ubah
 ## Output
-![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_output.png)
+![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/output.png)
 
 
 ## 2.4. File: pegawai harian.php
@@ -282,12 +282,12 @@ Method "jenis()" mengembalikan teks "HARIAN", sedangkan "getHariKerja()" digunak
 
 
 ## Main php sebelum
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sebelum.png)
+ini adalah codingan tambahan
 ## Main php sesudah
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sudah.png)
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/harian_sudah.png)
 main java tidak ada yang di ubah
 ## Output
-![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_output.png)
+![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/output.png)
 
 
 ## 2.5. File: pegawai kontrak.php
@@ -303,12 +303,12 @@ Method "jenis()" mengembalikan teks "KONTRAK", sedangkan "getBulanKontrak()" dig
 
 
 ## Main php sebelum
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sebelum.png)
+ini adalah codingan tambahan
 ## Main php sesudah
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sudah.png)
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/kontrak_sudah.png)
 main java tidak ada yang di ubah
 ## Output
-![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_output.png)
+![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/output.png)
 
 
 ## 2.6. File: pegawai tetap.php
@@ -324,12 +324,12 @@ Method "jenis()" mengembalikan teks "TETAP", sedangkan "getMasaKerjaTahun()" dig
 
 
 ## Main php sebelum
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sebelum.png)
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/pegawai_blm.png)
 ## Main php sesudah
-![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/phpMain_sudah.png)
+![Hasil Output php sesudah](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/tetap_sudah.png)
 main java tidak ada yang di ubah
 ## Output
-![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per03/ss/php_output.png)
+![PHP output](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per04/ss%20php/output.png)
 
 ---
 
