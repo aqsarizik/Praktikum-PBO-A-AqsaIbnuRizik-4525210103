@@ -23,7 +23,7 @@ Program juga membuat file `laporan_buku.txt` yang berisi daftar buku, jumlah sto
 
 **Hasil output PHP:**
 
-![Output Program PHP](after/images/output-php.png)
+![Output Program PHP](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per10/images/output-php.png)
 
 
 ## 3. Kesimpulan
