@@ -12,7 +12,7 @@ Program Java menampilkan menu untuk menambah buku, menambah anggota, meminjam bu
 
 **Hasil output Java:**
 
-![Output Program Java](./after/images/output-java.png)
+![Output Program Java](https://github.com/aqsarizik/Praktikum-PBO-A-AqsaIbnuRizik-4525210103/blob/main/per10/images/output-java.png)
 
 
 ## 2. Hasil Program PHP
